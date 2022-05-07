@@ -1,0 +1,11 @@
+E:\Cavalier2\Cavalier2\bin\Debug\Cavalier2.exe.config
+E:\Cavalier2\Cavalier2\bin\Debug\Cavalier2.exe
+E:\Cavalier2\Cavalier2\bin\Debug\Cavalier2.pdb
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.csproj.AssemblyReference.cache
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.csproj.SuggestedBindingRedirects.cache
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.Form1.resources
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.Properties.Resources.resources
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.csproj.GenerateResource.cache
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.csproj.CoreCompileInputs.cache
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.exe
+E:\Cavalier2\Cavalier2\obj\Debug\Cavalier2.pdb
